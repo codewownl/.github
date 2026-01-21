@@ -1,8 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../images/logo-dark.png" />
-    <img src="../images/logo-light.png" alt="CODE WOW" width="220" />
-  </picture>
+  	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="../images/logo-dark.png">
+		<source media="(prefers-color-scheme: light)" src="../images/logo-light.png">
+		<img alt="Code WOW!" src="../images/logo-dark.png" width="220">
+	</picture>
 </p>
 
 ---
