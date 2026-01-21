@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codewow.nl"><strong>💼 Bekijk vacatures op codewow.nl</strong></a>
+  <a href="https://codewow.nl/vacatures"><strong>💼 Bekijk de vacatures op onze website!</strong></a>
 </p>
 
 ---
@@ -54,7 +54,7 @@ Wij zoeken geen “flierefluiters”, maar programmeurs die houden van rust, inh
 
 ## 💻 Wil jij bouwen aan systemen die er écht toe doen?
 
-👉 **Bekijk onze vacatures op** [codewow.nl](https://www.codewow.nl)
+👉 **[Bekijk de vacatures op onze website!](https://codewow.nl/vacatures)**
 
 <p align="center">
   <img src="../images/gradient.png" alt="" width="100%" />
